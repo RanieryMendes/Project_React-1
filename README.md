@@ -1,5 +1,6 @@
 ![MainPage](MainPage.png)
-
+ 
+ 
 PT 
 
  Momento Pipoca 
@@ -27,6 +28,7 @@ It is known that the API token is available on this repository. If you want to r
 Lastly, this project is based on one of the many tutorials available on freecodecamp.org. 
 
 
+ <img src="SearchPage.png" width="350" alt="Search Page"/>
 
 
 
